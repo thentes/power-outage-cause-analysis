@@ -33,8 +33,8 @@ There wasn't a considerable amount of data cleaning required to complete my anal
 
 <iframe
   src="assets/file-name.html"
-  width="800"
-  height="600"
+  width="1600"
+  height="1300"
   frameborder="0"
 ></iframe>
 
