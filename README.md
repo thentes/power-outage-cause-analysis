@@ -1,6 +1,10 @@
 # Predicting the Causes of Power Outages
 
 
+Created by Toma Hentes
+thentes@umich.edu
+
+
 ## Introduction
 
 
