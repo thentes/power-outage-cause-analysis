@@ -29,10 +29,17 @@ DESCRIBE RELEVANT COLUMNS
 There wasn't a considerable amount of data cleaning required to complete my analysis. ADD MORE INFO
 
 
+<iframe
+  src="assets/climate-region.html"
+  width="2000"
+  height="1500"
+  frameborder="0"
+></iframe>
+
 
 
 <iframe
-  src="assets/file-name.html"
+  src="assets/scatter.html"
   width="2000"
   height="1500"
   frameborder="0"
@@ -50,6 +57,14 @@ It also seems that, although far less frequent, fuel supply emergencies also cau
 To remove those extreme outliers on the x-axis—after identifying that severe weather and fuel supply emergencies have the longest durations—let’s see all other causes in more detail.
 
 
+<iframe
+  src="assets/condensed.html"
+  width="2000"
+  height="1500"
+  frameborder="0"
+></iframe>
+
+
 It appears that system operability disruption, alongside severe weather, affects the most customers on average. While the majority of these instances still affect less than one million customers on average, it is the only cause other than severe weather that has affected over a million customers (and it has done so numerous times). This leaves intentional attacks, equipment failures, public appeals, and islanding as causes that affect the fewest customers affected.
 
 
@@ -61,11 +76,6 @@ Meanwhile, it seems like public appeals and intentional attacks are the only rem
 
 
 Overall, these two plots exemplify that power outage cause may be correlated to outage duration and customers affected.
-
-
-
-
-INTERESTING AGGREGATES
 
 
 
