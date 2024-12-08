@@ -31,8 +31,8 @@ There wasn't a considerable amount of data cleaning required to complete my anal
 
 <iframe
   src="assets/climate-region.html"
-  width="2000"
-  height="1500"
+  width="20000"
+  height="500"
   frameborder="0"
 ></iframe>
 
